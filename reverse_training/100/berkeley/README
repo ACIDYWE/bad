@@ -1,0 +1,9 @@
+berkerley task short description.
+
+Your task is to construct a proper packet that will bypass 
+all of the filters.
+
+This crackme requires root privileges to setup RAW-socket and
+I think you should better use a virtualization system to run it,
+it's a good practice after all (this challenge could be solved
+even without running the binary).
